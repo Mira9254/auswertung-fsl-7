@@ -1,0 +1,6 @@
+Dieses Programm wurde im Rahmen einer universitären Abschlussarbeit entwickelt und ist nicht kommerziell signiert. Daher kann es vorkommen, dass Ihr Betriebssystem oder Antivirenprogramm eine Warnung anzeigt. Dies ist eine Standardwarnung für nicht signierte Programme und bedeutet nicht, dass die Datei schädlich ist.
+
+Was Sie tun können:
+1. Wenn Windows SmartScreen eine Warnung anzeigt, klicken Sie auf "Weitere Informationen" und dann auf "Trotzdem ausführen".
+2. Falls Ihr Antivirenprogramm die Datei blockiert, fügen Sie sie zur Liste der Ausnahmen hinzu.
+3. Sie können die Datei auch vor der Ausführung mit Ihrem bevorzugten Antivirenprogramm scannen.

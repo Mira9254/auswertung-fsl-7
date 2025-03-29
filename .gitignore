@@ -1,0 +1,10 @@
+.venv
+venv
+
+__pycache__
+
+*.xlsx
+!test-input.xlsx
+
+*.spec
+build/
